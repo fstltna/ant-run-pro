@@ -1,15 +1,15 @@
 name:  ant-run-pro
 title:  Ant Run Pro
 version: "1.0"
-summary:   Nice puzzle game
+summary:   Update to the arcade classic
 description: |
-  Nice puzzle game
+  Update to the arcade classic
 
 grade: stable
 icon: ant-run-pro_icon.png
 
 base: core18
-confinemAnt Run Pro
+confinement: strict
 
 architectures:
   - build-on: amd64
